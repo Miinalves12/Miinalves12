@@ -1,4 +1,11 @@
-## Oiii eu sou a Yasmin Do Nascimento
+## 💜 Hey, I'm Angélica Ruiz!
+
+
+- 👧 I’m a Front-End Developer!
+- 📚 Studyng Systems Analysis and Development at <a href="https://unifatecie.estudecombolsa.com/embaixador?utm_source=google&utm_medium=cpc&utm_campaign=campanha-unifatecie&utm_content=campanha-unifatecie&gclid=CjwKCAjwx7GYBhB7EiwA0d8oexu-Xf8WBFffrB-9Chm_PxHNS9bo3p-kwjbYmf4xA-mV6S9daPXyEBoCb-4QAvD_BwE">Unifatecie</a>.
+- 🤔 I seek to develop my skills, learn and share knowledge.
+
+
 <div align="center">
   <a href="https://github.com/Miinalves12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miinalves12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
