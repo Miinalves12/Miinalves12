@@ -21,8 +21,7 @@
   <img align="center" alt="Miin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Miin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Miin-pic" height="150" style="border-radius:50px;" 
-  src="https://i.pinimg.com/564x/76/a5/72/76a572ef17766e97d32142d4a9b92222.jpg">
+  
 </div>
   
   ##
