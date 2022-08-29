@@ -1,4 +1,4 @@
-## 💜 Hey, I'm Angélica Ruiz!
+## 💜 Hey, I'm Yasmin Do Nascimento!
 
 
 - 👧 I’m a Front-End Developer!
