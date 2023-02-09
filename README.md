@@ -10,7 +10,6 @@ Yasmin Nascimento</a> <img src="https://emojis.slackmojis.com/emojis/images/1531
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g"/>
 </a>
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/yasmin-n-9022a7113/"><i>YASMIN DO NASCIMENTO </i></a> 😃️</h1>
   <p align="center">Estudo Análise e Desenvolvimento de sistemas na <a href="https://unifatecie.estudecombolsa.com/embaixador?utm_source=google&utm_medium=cpc&utm_campaign=campanha-unifatecie&utm_content=campanha-unifatecie&gclid=CjwKCAjwx7GYBhB7EiwA0d8oexu-Xf8WBFffrB-9Chm_PxHNS9bo3p-kwjbYmf4xA-mV6S9daPXyEBoCb-4QAvD_BwE"><i>UniFatecie</i></a>
   </a><br>
   <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
@@ -23,7 +22,6 @@ Yasmin Nascimento</a> <img src="https://emojis.slackmojis.com/emojis/images/1531
 
 - 🌱 I’m currently learning about front-end bymyself
 
-- 📫 How to reach me: *yasminalvesvalentim@gmail.com*  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </div>
 
 </h1>
