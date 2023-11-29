@@ -18,7 +18,6 @@
 
 <div align="center">
   <p align="center">Studying Analysis and Systems Development at <a href="https://unifatecie.estudecombolsa.com/embaixador?utm_source=google&utm_medium=cpc&utm_campaign=campanha-unifatecie&utm_content=campanha-unifatecie&gclid=CjwKCAjwx7GYBhB7EiwA0d8oexu-Xf8WBFffrB-9Chm_PxHNS9bo3p-kwjbYmf4xA-mV6S9daPXyEBoCb-4QAvD_BwE"><i>UniFatecie</i></a> and Computer Science at <a href="https://descomplica.com.br/faculdade/?utm_source=google&utm_medium=cpc&utm_campaign=psq-institucional-faculdade-ongoing&utm_term=descomplica%20faculdade&utm_content=institucional&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNdANTfGQhplm1d-_fd5tkk7ofEf5j9xPnHz0O9XJHmrIA2xHynXZswaAiTyEALw_wcB"><i>Descomplica</i></a></p>
-  <p align="center">Currently working as a Computational Analyst at BMI.</p>
   <p align="center">Focused on: <br>
     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
@@ -26,7 +25,7 @@
     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
   </p>
-  <p align="center">Available for freelance opportunities.</p>
+  <p align="center">Available for opportunities.</p>
 </div>
 
 <div align="center">
@@ -44,13 +43,4 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-
-<div align="center">
-  <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg">
-</div>
-
-<div align="center">
-  <p>Made with :heart: and JavaScript.</p>
-  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> and <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
